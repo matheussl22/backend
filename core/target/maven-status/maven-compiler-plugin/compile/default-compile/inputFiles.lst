@@ -1,0 +1,10 @@
+/home/matheus/pessoal/acert/Backend/core/src/main/java/br/com/core/support/ApplicationContextProvider.java
+/home/matheus/pessoal/acert/Backend/core/src/main/java/br/com/core/support/service/BaseService.java
+/home/matheus/pessoal/acert/Backend/core/src/main/java/br/com/core/dto/SuccessResponse.java
+/home/matheus/pessoal/acert/Backend/core/src/main/java/br/com/core/exception/RequiredFieldException.java
+/home/matheus/pessoal/acert/Backend/core/src/main/java/br/com/core/support/service/AbstractService.java
+/home/matheus/pessoal/acert/Backend/core/src/main/java/br/com/core/support/BaseRepository.java
+/home/matheus/pessoal/acert/Backend/core/src/main/java/br/com/core/support/entity/BaseEntity.java
+/home/matheus/pessoal/acert/Backend/core/src/main/java/br/com/core/exception/RegisterNotFoundException.java
+/home/matheus/pessoal/acert/Backend/core/src/main/java/br/com/core/support/controller/BaseController.java
+/home/matheus/pessoal/acert/Backend/core/src/main/java/br/com/core/support/controller/AbstractController.java

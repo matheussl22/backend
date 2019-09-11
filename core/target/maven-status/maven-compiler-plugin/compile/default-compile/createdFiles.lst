@@ -1,0 +1,10 @@
+br/com/core/exception/RegisterNotFoundException.class
+br/com/core/support/service/AbstractService.class
+br/com/core/support/service/BaseService.class
+br/com/core/support/controller/BaseController.class
+br/com/core/support/controller/AbstractController.class
+br/com/core/exception/RequiredFieldException.class
+br/com/core/support/ApplicationContextProvider.class
+br/com/core/dto/SuccessResponse.class
+br/com/core/support/entity/BaseEntity.class
+br/com/core/support/BaseRepository.class
