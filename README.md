@@ -19,7 +19,5 @@ To run test, you need exec command "mvn test" or run from IDE.
     - [GitHub](https://github.com/matheussl22)
     - [Linkedin](https://www.linkedin.com/in/matheus-warmeling-matias-293aa457/)
 
-## License
-There isn't license on project.
 
 
